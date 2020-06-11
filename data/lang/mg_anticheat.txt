@@ -1,0 +1,5 @@
+[hu]
+KICK_VPNIP = [KICK]Tilos a VPN használata!
+
+[en]
+KICK_VPNIP = [KICK]You must not use VPNs!
